@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105212806923",
+    "firebase_url": "https://cpopay1996.firebaseio.com",
+    "project_id": "cpopay1996",
+    "storage_bucket": "cpopay1996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105212806923:android:3da3500a13383b55",
+        "android_client_info": {
+          "package_name": "Com.cpopay.cieplaut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105212806923-4293vmqhjc5kim6k4rlbb6cu8a7n344e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Com.cpopay.cieplaut",
+            "certificate_hash": "421aee140fdf71f1d090203b6692f5aa2515cddb"
+          }
+        },
+        {
+          "client_id": "105212806923-n5ptglj537u8b4g0m748qktljfp7skg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs1MQYSfJsxj6JcZgqf9CWG36qteN-cvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105212806923-n5ptglj537u8b4g0m748qktljfp7skg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
